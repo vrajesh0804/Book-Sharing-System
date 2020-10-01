@@ -34,7 +34,7 @@
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img src="image/book4.jpg" class="d-block w-100  "  alt="...">
+          <img src="image/book4.jpg" class="d-block w-100  "  alt=".....">
           <div class="carousel-caption  d-sm-block ">
             <h1 class="Display-2"></h1>
             <h2>New jourey for old books</h2>
@@ -42,7 +42,7 @@
           </div>
         </div>
         <div class="carousel-item">
-          <img src="image/book5.jpg" class="d-block w-100" alt="...">
+          <img src="image/book5.jpg" class="d-block w-100" alt=".....">
           <div class="carousel-caption  d-sm-block">
             <h1 class="Display-2 "></h1>
             <h2>New jourey for old books</h2>
@@ -50,7 +50,7 @@
           </div>
         </div>
         <div class="carousel-item">
-          <img src="image/book6.jpg" class="d-block w-100" alt="...">
+          <img src="image/book6.jpg" class="d-block w-100" alt=".....">
           <div class="carousel-caption  d-sm-block">
 
             <h2>New jourey for old books</h2>
