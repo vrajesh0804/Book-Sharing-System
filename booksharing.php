@@ -22,9 +22,7 @@
 </head>
 <body>
 	<header>
-		<!-- navbar -->
-
-
+		<!-- Navigatio pannel-->
 <nav class="navbar navbar-expand-sm navbar-dark   fixed-top navigation">
 	<a class="navbar-brand" href="#" style="margin-top: 5px;">
     <img src="image/demo.png" width="35" height="35" class="d-inline-block align-top img1" alt="" style="margin-right: 10px; margin-bottom:  10px; float: left; ">
