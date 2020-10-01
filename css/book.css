@@ -1,0 +1,72 @@
+.navigation{
+	background-color: black;
+	font-size:20px;
+}
+/*slider*/
+/*.img1{
+	border-radius: 50px;
+}*/
+
+.img1:hover{
+		height: 50px;
+		width: 50px;
+}
+h2{
+	color:
+}
+
+/*dropdown*/
+.menu{
+	padding-left: 98px;
+	padding-right:90px;
+
+}
+.menu:hover{
+ background-color: grey;
+}
+.dropmenu{
+	background-color: white;
+}
+.dropmenu:hover{
+	background-color:grey;
+}
+.dropdown-menu:hover{
+	display: block;
+}
+
+/*intro about*/
+.introabout{
+	color: red;
+	/* height: 100%; */
+
+	background-image:url(image/book3.svg);
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+
+
+.aboutpage{
+	color:#581845 ;
+	width:50%;
+	height: 100%;
+
+
+
+
+}
+h4{
+
+	padding-top:16% ;
+}
+
+/*footer*/
+
+
+.footer1{
+
+
+
+	background-color: black;
+}

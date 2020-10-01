@@ -1,0 +1,178 @@
+* {box-sizing: border-box}
+
+/* Add padding to containers */
+.container {
+  padding: 16px;
+  align-items: center;
+}
+
+margin-right  
+{
+  margin-right: 335px;
+}
+
+/* Full-width input fields */
+input[type=text], input[type=email], input[type=Number], input[type=Password] {
+  width: 50%;
+  padding: 10px;
+  display: inline-block;
+  border: none;
+  border-radius: 10px;
+  background: #f1f1f1;
+}
+
+input[type=text], input[type=email], input[type=Number], input[type=Password] {
+  background-color: #ddd;
+  border-radius: 10px;
+  outline: none;
+}
+/*h3{
+  text-al
+}*/
+/* Overwrite default styles of hr */
+hr {
+
+  border: 1px solid red;
+  /*padding: px;*/
+  box-shadow: 15px 14px 20px black;
+}
+
+/* Set a style for the submit/register button */
+.registerbtn {
+  background-color:#6BBF59;
+  border-radius: 10px;
+  color:#1F2421;
+  font-size: 20px;
+  padding: 16px 20px;
+  width: 50%;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  opacity: 0.9;
+  transition: 0.9s;
+  position: relative;
+  overflow: hidden;
+}
+
+.registerbtn:hover {
+  color: black;
+  opacity:1;
+}
+.registerbtn::before{
+  content: "";
+  position: absolute;
+  left:0;
+  width: 10%;
+  background-color:#04773B;
+  z-index: -1;
+  transition: 0.9s;
+  top:0;
+  border-radius: 0 0 50% 50%;
+}
+.registerbtn:hover::before {
+    height: 100%;
+    width: 100%;
+  }
+
+
+/* Add a blue text color to links */
+a {
+  color: dodgerblue;
+}
+
+/* Set a grey background color and center the text of the "sign in" section */
+.signin {
+  background-color: #f1f1f1;
+  border-radius: 10px;
+  text-align: left;
+  width: 50%;
+}
+.signin:hover{
+  background-color:#C7EFCF;
+}
+
+.radiobtn
+{
+  margin-left: 30px;
+  opacity:1;
+
+}
+.btnreg{
+  border:2px solid green;
+  border-radius: 40px;
+}
+#btn1{
+  border: 2px solid red;
+}
+.btncontact{
+  background-color:#6BBF59;
+  border-radius: 10px;
+  color:#1F2421;
+  font-size: 20px;
+  padding: 16px 20px;
+  width: 50%;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  opacity: 0.9;
+  transition: 0.9s;
+  position: relative;
+  overflow: hidden; 
+}
+.btncontact:hover {
+  color: black;
+  opacity:1;
+}
+.btncontact::before{
+  content: "";
+  position: absolute;
+  left:0;
+  width: 10%;
+  background-color:#04773B;
+  z-index: -1;
+  transition: 0.9s;
+  top:0;
+  border-radius: 0 0 50% 50%;
+}
+.btncontact:hover::before {
+    height: 100%;
+    width: 100%;
+  }
+/*register book*/
+* {
+  box-sizing: border-box;
+  margin:0px;
+  padding: 0px;
+   }
+   h1
+   {
+    margin-top: 40px;
+    margin-bottom: 10px;
+    padding-left: 14%;
+    color:black;
+   }
+  .RegisterBook{
+    padding-top: 3%;
+    padding-left: 20%;
+    color: black;
+  }
+.same
+{
+  border:1px solid #e6ac00;
+  border-radius: 7px;
+  width:250px;
+  padding:5px;
+
+}
+
+label
+{
+  color:black;
+  font-weight: bold;
+}
+
+
+
+
+
+
