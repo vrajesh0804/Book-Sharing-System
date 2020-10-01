@@ -24,7 +24,8 @@
 	<header>
 
 
-
+			<!-- slider-->
+		
     <div id="carouselExampleCaptions" class="carousel slide " data-ride="carousel">
       <ol class="carousel-indicators">
         <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
@@ -73,7 +74,7 @@
     			<!--books navbar-->
 
     	<nav class="navbar  navbar-tab navbar-expand-sm navbar-light bg-light">
-      <a class="navbar-brand" href="view_all_accessories.php">Accessories</a>
+      <a class="navbar-brand" href="view_all_accessories.php">Accessories</a> <!-- view items -->
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -85,7 +86,7 @@
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
               IT
             </a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown"> 
               <a class="dropdown-item dropmenu" href="it_1.php">1st sem</a>
               <a class="dropdown-item dropmenu" href="categories/it_2.php">2nd sem</a>
               <a class="dropdown-item dropmenu" href="categories/it_3.php">3rd sem</a>
@@ -210,7 +211,7 @@
     </section>
     	<!--footer -->
 
-
+	<!-- address and all info -->
       <div  class="container-fluid footer1" id="contact">
     <div class="row">
       <div class="col-sm-4">
